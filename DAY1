@@ -1,1 +1,4 @@
-Javascript Akshay Saini
+Javascript Akshay Saini: 
+Everything in js happens inside an "EXECUTION CONTEXT" which has two main component one is 'Memory' and another is 'Code'
+js is synchronous(in sequence one after another) and single threaded(execute One at a time).
+call stack maintains the order of execution of the "EXECUTION CONTEXT"
